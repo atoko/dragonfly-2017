@@ -76,10 +76,10 @@ h2 {
 
 .liltext {
     text-align: center;
-    padding: 4px;
     color: black;    text-shadow: 2px 2px white;    
     margin-top: 4px;
     margin-bottom: 4px;
+    font-size: 24px;
 }
 
 .famimg {
